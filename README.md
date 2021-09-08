@@ -1,9 +1,9 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FL3KS4&theme=radical&hide=prs,contribs&show_icons=true&count_private=true&include_all_commits=true) <br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lowoncuties&theme=radical&hide=prs,contribs&show_icons=true&count_private=true&include_all_commits=true) <br>
 
 
 
 
-- 👋 Hi, I’m <b>@FL3KS4</b> or Low_on_cuties
+- 👋 Hi, I’m Lukas or <b>@lowoncuties</b>
 - 👀 I’m interested in Web app development (ASP.NET), Machine learning and Data science
 - 🌱 I’m currently learning ⚛ React and ML for NLP which is part of my bachelor thesis
 - 💞️ I’m looking to collaborate on whatever you wanna help with
