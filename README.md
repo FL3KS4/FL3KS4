@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lowoncuties&theme=radical&hide=prs,contribs&show_icons=true&count_private=true&include_all_commits=true) <br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lowoncuties&theme=radical&hide=prs,contribs&show_icons=true&count_private=false&include_all_commits=true) <br>
 
 
 
