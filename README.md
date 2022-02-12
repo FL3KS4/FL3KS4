@@ -5,7 +5,7 @@
 
 - 👋 Hi, I’m Lukas or <b>@lowoncuties</b>
 - 👀 I’m interested in Web app development (ASP.NET/JS), Machine learning and Data science
-- 🌱 I’m currently learning ⚛ React and ML for NLP which is part of my bachelor thesis
+- 🌱 I’m currently learning ML for NLP which is part of my bachelor thesis
 - 💞️ I’m looking to collaborate on whatever you wanna help with
 - 🌐 You can checkout my websites where you can [contact](https://lowoncuties.github.io/) me
 - 📫 Or you can send me a message on discord <b> low_on_cuties#7472 </b>
